@@ -1,0 +1,12 @@
+if snips1 == 1:
+  licht1 an
+  print (patti stinkt)
+else 
+  licht1 aus
+  print(Patti stinkt trotzdem)
+
+if snips2 == 1
+  licht2 an
+  print (patti stinkt +2)
+  
+usw...  
